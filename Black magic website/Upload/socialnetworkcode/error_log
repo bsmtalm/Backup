@@ -1,0 +1,4 @@
+[02-Dec-2017 13:47:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/immac729/public_html/oscar/socialnetworkcode/inc/scripts/mysql_connect.inc.php on line 2
+[02-Dec-2017 13:47:46 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/immac729/public_html/oscar/socialnetworkcode/inc/scripts/mysql_connect.inc.php on line 2
+[02-Dec-2017 13:48:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/immac729/public_html/oscar/socialnetworkcode/inc/scripts/mysql_connect.inc.php on line 2
+[02-Dec-2017 13:48:15 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/immac729/public_html/oscar/socialnetworkcode/inc/scripts/mysql_connect.inc.php on line 2

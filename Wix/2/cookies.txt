@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+oscarjbyles2003.wixsite.com	TRUE	/downloadtest	FALSE	1999999999	svSession	124d484665144ca229670a7ce665ece86a5c0f370a8783228da96e971a76c9905b1781529f132ce06a2b09435cab77ae1e60994d53964e647acf431e4f798bcd1445a91f41a19c587f73fd5c83ef3c41c1367d3b16e7e912acb38a35ccd68102
+oscarjbyles2003.wixsite.com	TRUE	/	FALSE	1999999999	hs	1472672495
+.wix.com	TRUE	/	FALSE	1999999999	_wix_browser_sess	0e9c5558-b226-4a9a-b6b2-8ce26c470a0e
+.wix.com	TRUE	/	FALSE	1999999999	_wixUIDX	null-user-id
+.wix.com	TRUE	/	FALSE	1999999999	userType	ANONYMOUS
+

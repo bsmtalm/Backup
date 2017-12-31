@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>People</title>
+	<style type="text/css">
+		body {
+			background-color: black;
+			color: white;
+			margin: 0;
+		}
+		.head {
+			text-align: center;
+		}
+		.person {
+			height: 80px;
+			background-color: grey;
+			width: 100%;
+			margin: auto;
+			padding: 10px;
+		}
+		.person1 {
+			height: 80px;
+			background-color: darkgrey;
+			width: 100%;
+			margin: auto;
+			padding: 10px;
+		}
+		a {
+			color: white; 
+			text-decoration: none;
+		}
+		a:link {
+			color: white; 
+		}
+		a:visited {
+			color: #cccccc; 
+		}
+		a:hover {
+			color: #a3a3a3; 
+		}
+	</style>
+</head>
+<body>
+	<SCRIPT>
+function passWord() {
+var testV = 1;
+var pass1 = prompt('Please Enter Your Password',' ');
+while (testV < 3) {
+if (!pass1) 
+history.go(-1);
+if (pass1.toLowerCase() == "letmein") {
+alert('You Got it Right!');
+window.open('www.wikihow.com');
+break;
+} 
+testV+=1;
+var pass1 = 
+prompt('Access Denied - Password Incorrect, Please Try Again.','Password');
+}
+if (pass1.toLowerCase()!="password" & testV ==3) 
+history.go(-1);
+return " ";
+} 
+</SCRIPT>
+<CENTER>
+<FORM>
+<input type="button" value="Enter Protected Area" onClick="passWord()">
+</FORM>
+</CENTER>
+	<div class="head">
+		<h1>Please choose a person</h1><h6>(from the hacked instagram accounts below)</h6>
+	</div>
+	<div class="person">
+		<h1><a href="jonny.html">Jonny Coombes</a></h1>
+	</div>
+	<div class="person1">
+		<h1><a href="jonny.html">Harviieeee</a></h1>
+	</div>
+	<div class="person">
+		<h1>coming soon</h1>
+	</div>
+	<div class="person1">
+		<h1>coming soon</h1>
+	</div>
+</body>
+</html>
